@@ -34,7 +34,7 @@ Go to the [releases section](https://github.com/julienkay/MobileNeRF-Unity-Viewe
 
 ### Importing sample scenes
 
-After succesful installation, you can use the menu `MobileNeRF -> Asset Downloads` to download any of the sample scenes available.
+After successful installation, you can use the menu `MobileNeRF -> Asset Downloads` to download any of the sample scenes available.
 In each scene folder there will be a convenient prefab, that you can then drag into the scene and you're good to go.
 
 ### Updating
